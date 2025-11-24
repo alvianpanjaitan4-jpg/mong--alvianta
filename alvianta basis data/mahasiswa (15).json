@@ -1,0 +1,2 @@
+{"_id":{"$oid":"69161639cc7ac860bae1cff7"},"nim":"2021001","nama":"Ahmad Rizki","jurusan":"Teknik Informatika","mat_kuliah":["Database","Pemrograman Web","AI"],"alamat":{"jalan":"Jl. Merdeka No. 123","kota":"Bandung","kode_pos":"12345"},"ipk":3.75}
+{"_id":{"$oid":"6916164ccc7ac860bae1cff8"},"nim":"2021002","nama":"Siti Nurhaliza","jurusan":"Sistem Informasi","ipk":3.6}
